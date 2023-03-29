@@ -1,0 +1,12 @@
+    .cartTotal {
+    width: 20px;
+    height: 25px;
+    font-size: 16px;
+    margin-top: 8px;
+  }
+
+  .iconoCarro {
+    display: flex;
+    flex-direction: row;
+  }
+  

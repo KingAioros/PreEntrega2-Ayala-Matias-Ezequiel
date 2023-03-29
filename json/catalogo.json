@@ -1,0 +1,58 @@
+[
+  {
+    "id": 1,
+    "nombre": "Celular noblex A60 plus negro",
+    "categoria": "Celulares",
+    "precio": 100,
+    "img": "img/CELULAR-NOBLEX-A60-PLUS-NEGRO.jpg"
+  },
+  {
+    "id": 2,
+    "nombre": "CELULAR MOTOROLA MOTO E13 TURQUESA",
+    "categoria": "Celulares",
+    "precio": 80,
+    "img": "img/CELULAR-MOTOROLA-MOTO-E13-TURQUESA.jpg"
+  },
+  {
+    "id": 3,
+    "nombre": "CELULAR SAMSUNG A23 BLANCO",
+    "categoria": "Celulares",
+    "precio": 200,
+    "img": "img/CELULAR-SAMSUNG-A23-BLANCO.jpg"
+  },
+  {
+    "id": 4,
+    "nombre": "TABLET SAMSUNG S8 128 GB PLATA",
+    "categoria": "Informatica",
+    "precio": 350,
+    "img": "img/TABLET-SAMSUNG-S8-128-GB-PLATA.jpg"
+  },
+  {
+    "id": 5,
+    "nombre": "NOTEBOOK GAMER OMEN BY HP 16-B0507LA I5 8G",
+    "categoria": "Informatica",
+    "precio": 250,
+    "img": "img/NOTEBOOK-GAMER-OMEN-HP-I5.jpg"
+  },
+  {
+    "id": 6,
+    "nombre": "CONSOLA LEVEL UP RETRO",
+    "categoria": "Gaming",
+    "precio": 65,
+    "img": "img/CONSOLA-LEVEL-UP-RETRO.png"
+  },
+  {
+    "id": 7,
+    "nombre": "CONSOLA XBOX SERIES S MICROSOFT",
+    "categoria": "Gaming",
+    "precio": 80,
+    "img": "img/CONSOLA-XBOX-SERIES-S-MICROSOFT.png"
+  },
+  {
+    "id": 8,
+    "nombre": "PARLANTE POTENCIADO DAEWOO TECHNO PRO",
+    "categoria": "Audio",
+    "precio": 40,
+    "img": "img/PARLANTE-POTENCIADO-DAEWOO-TECHNO-PRO.jpg"
+  }
+]

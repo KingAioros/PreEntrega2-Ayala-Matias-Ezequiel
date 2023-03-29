@@ -1,0 +1,79 @@
+
+.logo {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  background-image: url(../img/banner.jpg);
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: 95%;
+}
+
+.logo img {
+  transition: all 0.25s;
+}
+
+.logo img:hover {
+  transform: translateY(-5px);
+  box-shadow: 0 10px 12px rgba(0, 0, 0, 0.2);
+}
+
+
+/*               Break points                */
+
+@media screen and (max-width: 1025px) {
+
+  .logo img {
+    width: 180px;
+    height: 180px;
+  }
+}
+
+@media screen and (max-width: 769px) {
+
+  .logo img {
+    width: 160px;
+    height: 160px;
+  }
+  .logo img:hover {
+    transform: none;
+    box-shadow: none;
+  }
+}
+
+@media screen and (max-width: 426px) {
+
+  .logo img {
+    width: 120px;
+    height: 120px;
+  }
+  .logo img:hover {
+    transform: none;
+    box-shadow: none;
+  }
+}
+
+@media screen and (max-width: 376px) {
+  .logo img:hover {
+    transform: none;
+    box-shadow: none;
+  }
+
+  .logo img {
+    width: 120px;
+    height: 120px;
+  }
+}
+
+@media screen and (max-width: 320px) {
+
+  .logo img:hover {
+    transform: none;
+    box-shadow: none;
+  }
+
+  .logo img {
+    width: 80px;
+    height: 80px;
+  }
+}
